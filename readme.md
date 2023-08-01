@@ -1,6 +1,6 @@
 # Serie React Udemy
 
-### React JS consumindo REST API RESTful em Spring Boot Java 16
+### 1 React JS consumindo REST API RESTful em Spring Boot Java 16
 * Tempo de conteúdo ( 6hs )
 ```
 https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-com-react-js-axios/
@@ -11,7 +11,7 @@ https://www.udemy.com/course/aprenda-consumir-apis-restful-em-spring-boot-java-c
 * NodeJS 14
 * Java 16
 
-### Aprenda React, React Hooks, Redux, Laravel e Mercado Pago
+### 2 Aprenda React, React Hooks, Redux, Laravel e Mercado Pago
 * Tempo de conteúdo ( 31hs )
 ```
 https://www.udemy.com/course/aprenda-react-react-hooks-redux-laravel-e-mercado-pago/learn/lecture/23486828#overview
@@ -21,7 +21,7 @@ https://www.udemy.com/course/aprenda-react-react-hooks-redux-laravel-e-mercado-p
 * NodeJS 14
 * Laravel
 
-### Projeto Completo: XD, NodeJs, MongoDB, React Native e React ( Melhor 1)
+### 3 Projeto Completo: XD, NodeJs, MongoDB, React Native e React ( Melhor 1)
 * Tempo de conteúdo ( 18hs )
 ```
 https://www.udemy.com/course/projeto-completo-xd-nodejs-mongodb-react-native-e-react/learn/lecture/18472572#overview
@@ -38,7 +38,7 @@ https://www.udemy.com/course/projeto-completo-xd-nodejs-mongodb-react-native-e-r
 * Web
 * API
 
-### Spring Boot + React JS: Desenvolva Aplicações Web Completas
+### 4 Spring Boot + React JS: Desenvolva Aplicações Web Completas
 * Tempo de conteúdo ( 22hs )
 ```
 https://www.udemy.com/course/desenvolva-aplicacoes-completas-com-spring-boot-e-react-js/learn/lecture/16131829#overview
@@ -53,8 +53,33 @@ https://www.udemy.com/course/desenvolva-aplicacoes-completas-com-spring-boot-e-r
 * Bootstrap
 
 
-###  https://www.udemy.com/course/react-e-typescript/learn/lecture/21311590?start=1140#overview ( Melhor 1 )
+### 5 https://www.udemy.com/course/react-e-typescript/learn/lecture/21311590?start=1140#overview ( Melhor 1 )
 * tempo estimado ( 16hs )
 ```
 https://www.udemy.com/course/react-e-typescript/learn/lecture/21311590?start=1140#overview
+```
+
+### 6 Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO! ( Melhor 2 )
+* tempo estimado ( 54hs )
+```
+https://www.udemy.com/course/react-redux-pt/learn/lecture/26819310#overview
+```
+
+* Aulão com next
+```
+https://www.udemy.com/course/react-redux-pt/learn/lecture/27736568#overview
+```
+* Criando projeto
+```
+npx create-next-app fundamentos
+```
+
+### 7 Construa aplicações web completas com React e Redux!
+``` versão 16
+https://www.udemy.com/course/construa-aplicacoes-web-completas-com-react-e-redux/learn/lecture/19570252#overview
+```
+* tempo estimado ( 11hs )
+* primeiro projeto cap 5
+```
+https://www.udemy.com/course/construa-aplicacoes-web-completas-com-react-e-redux/learn/lecture/19569838#overview
 ```
