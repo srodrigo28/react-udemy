@@ -75,6 +75,7 @@ npx create-next-app fundamentos
 ```
 
 ### 7 Construa aplicações web completas com React e Redux!
+tempo estimado ( 11hs )
 ``` versão 16
 https://www.udemy.com/course/construa-aplicacoes-web-completas-com-react-e-redux/learn/lecture/19570252#overview
 ```
@@ -83,3 +84,12 @@ https://www.udemy.com/course/construa-aplicacoes-web-completas-com-react-e-redux
 ```
 https://www.udemy.com/course/construa-aplicacoes-web-completas-com-react-e-redux/learn/lecture/19569838#overview
 ```
+
+#### Comandos usandos
+npx create vite@latest
+
+### 8  Curso de JavaScript e TypeScript do básico ao avançado ( 1 Melhor )
+```
+https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/lecture/16887016?start=0#overview
+```
+tempo estimado ( 146h )
